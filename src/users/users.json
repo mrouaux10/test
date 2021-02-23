@@ -1,0 +1,80 @@
+{
+  "data": {
+    "users": [
+      {
+        "id": 1,
+        "name": "nombre de test 1",
+        "email": "test1@mail.com",
+        "age": 19,
+        "status": 2
+      },
+      {
+        "id": 1,
+        "name": "nombre de test 2",
+        "email": "test2@mail.com",
+        "age": 18,
+        "status": 2
+      },
+      {
+        "id": 1,
+        "name": "nombre de test 3",
+        "email": "test3@mail.com",
+        "age": 16,
+        "status": 1
+      },
+      {
+        "id": 1,
+        "name": "nombre de test 4",
+        "email": "test4@mail.com",
+        "age": 25,
+        "status": 1
+      },
+      {
+        "id": 1,
+        "name": "nombre de test 5",
+        "email": "test5@mail.com",
+        "age": 13,
+        "status": 1
+      },
+      {
+        "id": 1,
+        "name": "nombre de test 6",
+        "email": "test6@mail.com",
+        "age": 46,
+        "status": 2
+      },
+      {
+        "id": 1,
+        "name": "nombre de test 7",
+        "email": "test7@mail.com",
+        "age": 17,
+        "status": 2
+      },
+      {
+        "id": 1,
+        "name": "nombre de test 8",
+        "email": "test8@mail.com",
+        "age": 30,
+        "status": 2
+      },
+      {
+        "id": 1,
+        "name": "nombre de test 9",
+        "email": "test9@mail.com",
+        "age": 52,
+        "status": 2
+      },
+      {
+        "id": 1,
+        "name": "nombre de test10",
+        "email": "test10@mail.com",
+        "age": 36,
+        "status": 1
+      }
+    ]
+  },
+  "metadata": {
+    "pages": 1,
+    "total": 10
+  }
+}
