@@ -7,7 +7,7 @@
     </b-container>
     <b-container>
       <b-row class="justify-content-around">
-        <h6>Cuentas bloqueadas: {{ blockedAccounts.length }}</h6>
+        <h6>Cuentas bloqueadassssssss: {{ blockedAccounts.length }}</h6>
         <h6>Cuentas activas: {{ activeAccounts.length }}</h6>
       </b-row>
       <b-row class="justify-content-around">
